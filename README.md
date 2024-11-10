@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+### Name: Anu Varshini M B
+### Register Number: 212223240010
 ## AIM
 To write python program to perform sliding window protocol.
 ## ALGORITHM:
